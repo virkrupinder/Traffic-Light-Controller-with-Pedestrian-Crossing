@@ -1,1 +1,3 @@
 # Traffic-Light-Controller-with-Pedestrian-Crossing
+
+This is a verilog code for a traffic light controller with pedestrian crossing implemented using a Finite State Machine (FSM) with four distinct states and the outputs were simulated in Xilinx ISE Design Suite. A system was designed for the intersection which has two traffic lights, Main Street Light (MSL) and Side Street Light (SSL), and their respective sensors, Main Street Sensor (MSS) and Side Street Sensor (SSS), to detect presence of vehicles on the streets. It also includes operations for the Walk Buttons (WB) and Walk Lights (WL) to stop the functioning of the traffic light and let the pedestrian walk.
